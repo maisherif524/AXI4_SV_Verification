@@ -89,7 +89,6 @@ AXI4_Verification_SystemVerilog
 │   ├── axi_TE.sv
 │   ├── axi4_packet.sv
 │   ├── axi_sva.sv
-│   ├── test.sv
 │   └── axi_top.sv
 │
 ├── Sim/
