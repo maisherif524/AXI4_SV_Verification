@@ -99,8 +99,11 @@ AXI4_Verification_SystemVerilog
 │
 ├── Coverage/
 │   ├── coverage_report.txt
-│   ├── cov_report/
-│   │   └── index.html
+│   ├── index.html
+│   ├── covSummary.html
+│   ├── dulist.html
+│   ├── index.html
+│   ├── menu.html
 │   └── coverage.ucdb
 │
 └── README.md
